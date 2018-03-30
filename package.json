@@ -1,0 +1,20 @@
+{
+  "name": "homework-73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "homework-73-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node homework-73-1.js",
+    "dev": "nodemon homework-73-1.js"
+  },
+  "author": "Saver",
+  "license": "ISC",
+  "dependencies": {
+    "caesar-salad": "^1.0.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
